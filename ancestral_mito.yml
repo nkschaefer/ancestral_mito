@@ -1,0 +1,10 @@
+name: ancestral_mito
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - samtools
+  - nextflow
+  - python=3
+  - bedtools
+  - muscle

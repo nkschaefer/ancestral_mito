@@ -1,0 +1,9 @@
+# Directory to store results
+out: "output"
+# FASTA mitochondrial genome for species 1 / reference for
+# circular coordinates
+mito1: "/path/to/chrM1.fa"
+# FASTA mitochondrial genome for species 2
+mito2: "/path/to/chrM2.fa"
+# FASTA mitochondrial genome for outgroup
+mito_outgroup: "/path/to/chrM3.fa"
